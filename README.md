@@ -1,11 +1,21 @@
 ## Hi there 👋
 
-My name is Charley and im currently studying Computer Science at college and I am interested in coding, problem-solving, and building innovative solutions. 
+🎓Computer Science Student
 
-## Languages
- Python
+🔐 Interested in Cyber Security
 
+💻 Currently learning:
 
+Python
+Software Development
+Networking
+Cyber Security Fundamentals
+
+🚀 Projects:
+Shopping Centre Kiosk Simulator
+Python Applications
+Personal Learning Projects
+📚 Currently focused on building practical projects and developing real-world programming skills.
 
 <!--
 **CJ55421/CJ55421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
